@@ -12,5 +12,5 @@ Osnovna spletna stran (html, css), ki jo bomo uporabljali za učenje gita.
 7. Popravi commit message z ``git commit --amend``
 8. Spremeni še nekaj stvari, ugotovi, da dejansko ne želiš teh sprememb, in jih resetaj (tako cel repozitorij kot file-by-file)
 9. Daj pull request
-10. Ines naredi neke spremembe, pull requeste je treba updatat
-11. Ines sprejme nek pull request in zavrne ostale
+10. Posodobi svoj pull request potem, ko se zgodijo spremembe v tem repozitoriju
+11. Počakaj, da je tvoj pull request sprejet ali zavrnjen
